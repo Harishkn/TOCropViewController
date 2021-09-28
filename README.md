@@ -254,3 +254,4 @@ iOS Device mockups used in the screenshot created by [Pixeden](http://www.pixede
 
 ## License
 TOCropViewController is licensed under the MIT License, please see the [LICENSE](LICENSE) file. ![analytics](https://ga-beacon.appspot.com/UA-5643664-16/TOCropViewController/README.md?pixel)
+“# image proper”
